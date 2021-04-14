@@ -99,6 +99,8 @@ We recommend that Lending Club re-evaluate its grade scale / interest rates. Som
 
 # References
 
+All data used in this notebook can be found inn this [PublicDataScience OneDrive](https://1drv.ms/f/s!Auk8iMVy_DM2gvABhoALt3I8kw1-XA)
+
 [How to fine tune Random Forest](https://towardsdatascience.com/random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d)
 
 [Hyperparamter Tuning Random Forest](https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/)
