@@ -8,7 +8,7 @@ Lending Club is a peer-to-peer lending company with its headquarters in San Fran
 
  
 ## Problem Statement:
-This is my project using Lending Tree data to predict whether a borrower will default on a loan using multiple machine learning algorithms.
+Using Lending Tree data to predict whether a borrower will default on a loan using multiple machine learning algorithms.
 
 ## Exploratory Data Analaysis (EDA) and Data Cleaning:
 We will evaluate the loans from 2007 to 2017 publicly shared data from Lending Club. Lending Club provides a data dictionary that contains details of all attributes of in the dataset. We used that dictionary to understand more about the data columns, and we will remove columns that do not impact the loan default ratio.
@@ -105,3 +105,7 @@ All data used in this notebook can be found inn this [PublicDataScience OneDrive
 
 [Hyperparamter Tuning Random Forest](https://www.analyticsvidhya.com/blog/2020/03/beginners-guide-random-forest-hyperparameter-tuning/)
 
+
+
+Thank you for visiting.
+If you have any questions, feel free to contact me celesteishort@gmail.com
